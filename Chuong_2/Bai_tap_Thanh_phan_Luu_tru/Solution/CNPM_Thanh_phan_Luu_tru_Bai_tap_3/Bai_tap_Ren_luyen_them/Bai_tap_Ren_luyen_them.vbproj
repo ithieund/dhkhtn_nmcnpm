@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C6A23EDE-65C2-4DA4-A899-FF54F33D8194}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Bai_tap_Ren_luyen_them.My.MyApplication</StartupObject>
+    <RootNamespace>Bai_tap_Ren_luyen_them</RootNamespace>
+    <AssemblyName>Bai_tap_Ren_luyen_them</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Bai_tap_Ren_luyen_them.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Bai_tap_Ren_luyen_them.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="1.Thanh_phan_Giao_dien\MH_Cap_nhat_Nhan_vien.Designer.vb">
+      <DependentUpon>MH_Cap_nhat_Nhan_vien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1.Thanh_phan_Giao_dien\MH_Cap_nhat_Nhan_vien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1.Thanh_phan_Giao_dien\MH_Chinh.designer.vb">
+      <DependentUpon>MH_Chinh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1.Thanh_phan_Giao_dien\MH_Chinh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1.Thanh_phan_Giao_dien\MH_Chon_Nhan_vien.Designer.vb">
+      <DependentUpon>MH_Chon_Nhan_vien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1.Thanh_phan_Giao_dien\MH_Chon_Nhan_vien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1.Thanh_phan_Giao_dien\MH_Them_moi_Nhan_vien.designer.vb">
+      <DependentUpon>MH_Them_moi_Nhan_vien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1.Thanh_phan_Giao_dien\MH_Them_moi_Nhan_vien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1.Thanh_phan_Giao_dien\MH_Thong_ke_So_luong_Nhan_vien_Theo_Don_vi.Designer.vb">
+      <DependentUpon>MH_Thong_ke_So_luong_Nhan_vien_Theo_Don_vi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1.Thanh_phan_Giao_dien\MH_Thong_ke_So_luong_Nhan_vien_Theo_Don_vi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1.Thanh_phan_Giao_dien\MH_Tra_cuu_Nhan_vien_theo_Don_vi.designer.vb">
+      <DependentUpon>MH_Tra_cuu_Nhan_vien_theo_Don_vi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1.Thanh_phan_Giao_dien\MH_Tra_cuu_Nhan_vien_theo_Don_vi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1.Thanh_phan_Giao_dien\MH_Tra_cuu_Nhan_vien_Theo_Do_tuoi.Designer.vb">
+      <DependentUpon>MH_Tra_cuu_Nhan_vien_Theo_Do_tuoi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1.Thanh_phan_Giao_dien\MH_Tra_cuu_Nhan_vien_Theo_Do_tuoi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1.Thanh_phan_Giao_dien\MH_Tra_cuu_Nhan_vien_Theo_Muc_luong.Designer.vb">
+      <DependentUpon>MH_Tra_cuu_Nhan_vien_Theo_Muc_luong.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1.Thanh_phan_Giao_dien\MH_Tra_cuu_Nhan_vien_Theo_Muc_luong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1.Thanh_phan_Giao_dien\XL_THE_HIEN_ADO_WFC.vb" />
+    <Compile Include="1.Thanh_phan_Giao_dien\XL_THE_HIEN_ADO_WFC_Cong_ty.vb" />
+    <Compile Include="1.Thanh_phan_Giao_dien\XL_THE_HIEN_ADO_WFC_Don_vi.vb" />
+    <Compile Include="1.Thanh_phan_Giao_dien\XL_THE_HIEN_ADO_WFC_Nhan_vien.vb" />
+    <Compile Include="2.Thanh_phan_Nghiep_vu\XL_NGHIEP_VU_ADO.vb" />
+    <Compile Include="2.Thanh_phan_Nghiep_vu\XL_NGHIEP_VU_ADO_Cong_ty.vb" />
+    <Compile Include="2.Thanh_phan_Nghiep_vu\XL_NGHIEP_VU_ADO_Don_vi.vb" />
+    <Compile Include="2.Thanh_phan_Nghiep_vu\XL_NGHIEP_VU_ADO_Nhan_vien.vb" />
+    <Compile Include="3.Thanh_phan_Luu_tru\XL_LUU_TRU_ADO.vb" />
+    <Compile Include="3.Thanh_phan_Luu_tru\XL_LUU_TRU_ADO_QLNV_1.vb" />
+    <Compile Include="3.Thanh_phan_Luu_tru\XL_LUU_TRU_ADO_QLNV_2.vb" />
+    <Compile Include="3.Thanh_phan_Luu_tru\XL_LUU_TRU_ADO_QLNV_3.vb" />
+    <Compile Include="3.Thanh_phan_Luu_tru\XL_LUU_TRU_CSDL_Access.vb" />
+    <Compile Include="3.Thanh_phan_Luu_tru\XL_LUU_TRU_CSDL_SQLServer.vb" />
+    <Compile Include="3.Thanh_phan_Luu_tru\XL_LUU_TRU_CSDL_SQLServer_Tap_tin.vb" />
+    <Compile Include="3.Thanh_phan_Luu_tru\XL_LUU_TRU_CSDL_Xml.vb" />
+    <Compile Include="3.Thanh_phan_Luu_tru\XL_LUU_TRU_Tap_tin_Media.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="1.Thanh_phan_Giao_dien\MH_Cap_nhat_Nhan_vien.resx">
+      <DependentUpon>MH_Cap_nhat_Nhan_vien.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1.Thanh_phan_Giao_dien\MH_Chinh.resx">
+      <DependentUpon>MH_Chinh.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1.Thanh_phan_Giao_dien\MH_Chon_Nhan_vien.resx">
+      <DependentUpon>MH_Chon_Nhan_vien.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1.Thanh_phan_Giao_dien\MH_Them_moi_Nhan_vien.resx">
+      <DependentUpon>MH_Them_moi_Nhan_vien.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1.Thanh_phan_Giao_dien\MH_Thong_ke_So_luong_Nhan_vien_Theo_Don_vi.resx">
+      <DependentUpon>MH_Thong_ke_So_luong_Nhan_vien_Theo_Don_vi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1.Thanh_phan_Giao_dien\MH_Tra_cuu_Nhan_vien_theo_Don_vi.resx">
+      <DependentUpon>MH_Tra_cuu_Nhan_vien_theo_Don_vi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1.Thanh_phan_Giao_dien\MH_Tra_cuu_Nhan_vien_Theo_Do_tuoi.resx">
+      <DependentUpon>MH_Tra_cuu_Nhan_vien_Theo_Do_tuoi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1.Thanh_phan_Giao_dien\MH_Tra_cuu_Nhan_vien_Theo_Muc_luong.resx">
+      <DependentUpon>MH_Tra_cuu_Nhan_vien_Theo_Muc_luong.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

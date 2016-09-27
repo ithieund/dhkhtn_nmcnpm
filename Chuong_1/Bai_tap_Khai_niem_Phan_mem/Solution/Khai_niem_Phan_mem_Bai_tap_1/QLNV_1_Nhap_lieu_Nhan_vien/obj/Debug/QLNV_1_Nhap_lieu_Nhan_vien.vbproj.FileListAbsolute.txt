@@ -1,0 +1,11 @@
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\1. Thuc Hanh\Khai_niem_Phan_mem_Bai_tap_1\QLNV_1_Nhap_lieu_Nhan_vien\bin\Debug\QLNV_1_Nhap_lieu_Nhan_vien.exe.config
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\1. Thuc Hanh\Khai_niem_Phan_mem_Bai_tap_1\QLNV_1_Nhap_lieu_Nhan_vien\obj\Debug\QLNV_1_Nhap_lieu_Nhan_vien.vbprojResolveAssemblyReference.cache
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\1. Thuc Hanh\Khai_niem_Phan_mem_Bai_tap_1\QLNV_1_Nhap_lieu_Nhan_vien\obj\Debug\QLNV_1_Nhap_lieu_Nhan_vien.MH_Them_moi_Nhan_vien.resources
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\1. Thuc Hanh\Khai_niem_Phan_mem_Bai_tap_1\QLNV_1_Nhap_lieu_Nhan_vien\obj\Debug\QLNV_1_Nhap_lieu_Nhan_vien.Resources.resources
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\1. Thuc Hanh\Khai_niem_Phan_mem_Bai_tap_1\QLNV_1_Nhap_lieu_Nhan_vien\obj\Debug\QLNV_1_Nhap_lieu_Nhan_vien.vbproj.GenerateResource.Cache
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\1. Thuc Hanh\Khai_niem_Phan_mem_Bai_tap_1\QLNV_1_Nhap_lieu_Nhan_vien\obj\Debug\QLNV_1_Nhap_lieu_Nhan_vien.xml
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\1. Thuc Hanh\Khai_niem_Phan_mem_Bai_tap_1\QLNV_1_Nhap_lieu_Nhan_vien\bin\Debug\QLNV_1_Nhap_lieu_Nhan_vien.exe
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\1. Thuc Hanh\Khai_niem_Phan_mem_Bai_tap_1\QLNV_1_Nhap_lieu_Nhan_vien\bin\Debug\QLNV_1_Nhap_lieu_Nhan_vien.pdb
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\1. Thuc Hanh\Khai_niem_Phan_mem_Bai_tap_1\QLNV_1_Nhap_lieu_Nhan_vien\bin\Debug\QLNV_1_Nhap_lieu_Nhan_vien.xml
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\1. Thuc Hanh\Khai_niem_Phan_mem_Bai_tap_1\QLNV_1_Nhap_lieu_Nhan_vien\obj\Debug\QLNV_1_Nhap_lieu_Nhan_vien.exe
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\1. Thuc Hanh\Khai_niem_Phan_mem_Bai_tap_1\QLNV_1_Nhap_lieu_Nhan_vien\obj\Debug\QLNV_1_Nhap_lieu_Nhan_vien.pdb

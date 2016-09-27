@@ -1,0 +1,11 @@
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\1. Thuc Hanh\Khai_niem_Phan_mem_Bai_tap_2\QLNV_1_Tra_cuu_Nhan_vien_Theo_Muc_luong\bin\Debug\QLNV_1_Tra_cuu_Nhan_vien_Theo_Muc_luong.exe.config
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\1. Thuc Hanh\Khai_niem_Phan_mem_Bai_tap_2\QLNV_1_Tra_cuu_Nhan_vien_Theo_Muc_luong\obj\Debug\QLNV_1_Tra_cuu_Nhan_vien_Theo_Muc_luong.Resources.resources
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\1. Thuc Hanh\Khai_niem_Phan_mem_Bai_tap_2\QLNV_1_Tra_cuu_Nhan_vien_Theo_Muc_luong\obj\Debug\QLNV_1_Tra_cuu_Nhan_vien_Theo_Muc_luong.vbproj.GenerateResource.Cache
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\1. Thuc Hanh\Khai_niem_Phan_mem_Bai_tap_2\QLNV_1_Tra_cuu_Nhan_vien_Theo_Muc_luong\obj\Debug\QLNV_1_Tra_cuu_Nhan_vien_Theo_Muc_luong.xml
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\1. Thuc Hanh\Khai_niem_Phan_mem_Bai_tap_2\QLNV_1_Tra_cuu_Nhan_vien_Theo_Muc_luong\bin\Debug\QLNV_1_Tra_cuu_Nhan_vien_Theo_Muc_luong.exe
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\1. Thuc Hanh\Khai_niem_Phan_mem_Bai_tap_2\QLNV_1_Tra_cuu_Nhan_vien_Theo_Muc_luong\bin\Debug\QLNV_1_Tra_cuu_Nhan_vien_Theo_Muc_luong.pdb
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\1. Thuc Hanh\Khai_niem_Phan_mem_Bai_tap_2\QLNV_1_Tra_cuu_Nhan_vien_Theo_Muc_luong\bin\Debug\QLNV_1_Tra_cuu_Nhan_vien_Theo_Muc_luong.xml
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\1. Thuc Hanh\Khai_niem_Phan_mem_Bai_tap_2\QLNV_1_Tra_cuu_Nhan_vien_Theo_Muc_luong\obj\Debug\QLNV_1_Tra_cuu_Nhan_vien_Theo_Muc_luong.exe
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\1. Thuc Hanh\Khai_niem_Phan_mem_Bai_tap_2\QLNV_1_Tra_cuu_Nhan_vien_Theo_Muc_luong\obj\Debug\QLNV_1_Tra_cuu_Nhan_vien_Theo_Muc_luong.pdb
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\1. Thuc Hanh\Khai_niem_Phan_mem_Bai_tap_2\QLNV_1_Tra_cuu_Nhan_vien_Theo_Muc_luong\obj\Debug\QLNV_1_Tra_cuu_Nhan_vien_Theo_Muc_luong.MH_Tra_cuu_Nhan_vien_Theo_Muc_luong.resources
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\1. Thuc Hanh\Khai_niem_Phan_mem_Bai_tap_2\QLNV_1_Tra_cuu_Nhan_vien_Theo_Muc_luong\obj\Debug\QLNV_1_Tra_cuu_Nhan_vien_Theo_Muc_luong.vbprojResolveAssemblyReference.cache

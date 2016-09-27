@@ -1,0 +1,11 @@
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\2. Thuc Hanh\Khai_niem_Cong_nghe_Phan_mem_Bai_tap_2\QLNV_1_Cap_nhat_Don_vi\bin\Debug\QLNV_1_Cap_nhat_Don_vi.exe.config
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\2. Thuc Hanh\Khai_niem_Cong_nghe_Phan_mem_Bai_tap_2\QLNV_1_Cap_nhat_Don_vi\bin\Debug\QLNV_1_Cap_nhat_Don_vi.exe
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\2. Thuc Hanh\Khai_niem_Cong_nghe_Phan_mem_Bai_tap_2\QLNV_1_Cap_nhat_Don_vi\bin\Debug\QLNV_1_Cap_nhat_Don_vi.pdb
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\2. Thuc Hanh\Khai_niem_Cong_nghe_Phan_mem_Bai_tap_2\QLNV_1_Cap_nhat_Don_vi\bin\Debug\QLNV_1_Cap_nhat_Don_vi.xml
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\2. Thuc Hanh\Khai_niem_Cong_nghe_Phan_mem_Bai_tap_2\QLNV_1_Cap_nhat_Don_vi\obj\Debug\QLNV_1_Cap_nhat_Don_vi.Resources.resources
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\2. Thuc Hanh\Khai_niem_Cong_nghe_Phan_mem_Bai_tap_2\QLNV_1_Cap_nhat_Don_vi\obj\Debug\QLNV_1_Cap_nhat_Don_vi.vbproj.GenerateResource.Cache
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\2. Thuc Hanh\Khai_niem_Cong_nghe_Phan_mem_Bai_tap_2\QLNV_1_Cap_nhat_Don_vi\obj\Debug\QLNV_1_Cap_nhat_Don_vi.exe
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\2. Thuc Hanh\Khai_niem_Cong_nghe_Phan_mem_Bai_tap_2\QLNV_1_Cap_nhat_Don_vi\obj\Debug\QLNV_1_Cap_nhat_Don_vi.xml
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\2. Thuc Hanh\Khai_niem_Cong_nghe_Phan_mem_Bai_tap_2\QLNV_1_Cap_nhat_Don_vi\obj\Debug\QLNV_1_Cap_nhat_Don_vi.pdb
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\2. Thuc Hanh\Khai_niem_Cong_nghe_Phan_mem_Bai_tap_2\QLNV_1_Cap_nhat_Don_vi\obj\Debug\QLNV_1_Cap_nhat_Don_vi.MH_Cap_nhat_Don_vi.resources
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\2. Thuc Hanh\Khai_niem_Cong_nghe_Phan_mem_Bai_tap_2\QLNV_1_Cap_nhat_Don_vi\obj\Debug\QLNV_1_Cap_nhat_Don_vi.MH_Chon_Don_vi.resources

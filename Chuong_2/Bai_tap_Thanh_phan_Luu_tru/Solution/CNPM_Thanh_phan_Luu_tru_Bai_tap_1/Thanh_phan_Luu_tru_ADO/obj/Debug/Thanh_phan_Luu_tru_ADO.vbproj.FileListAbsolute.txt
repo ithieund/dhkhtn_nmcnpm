@@ -1,0 +1,34 @@
+F:\SDS_MBOOK\CNPM\2_Thiet_ke_Du_lieu\1_Khai_niem\CNPM_Vi_du_minh_hoa_Thanh_phan_Luu_tru\Thanh_phan_Luu_tru_ADO\bin\Debug\Thanh_phan_Luu_tru_ADO.exe.config
+F:\SDS_MBOOK\CNPM\2_Thiet_ke_Du_lieu\1_Khai_niem\CNPM_Vi_du_minh_hoa_Thanh_phan_Luu_tru\Thanh_phan_Luu_tru_ADO\obj\Debug\Thanh_phan_Luu_tru_ADO.vbprojResolveAssemblyReference.cache
+F:\SDS_MBOOK\CNPM\2_Thiet_ke_Du_lieu\1_Khai_niem\CNPM_Vi_du_minh_hoa_Thanh_phan_Luu_tru\Thanh_phan_Luu_tru_ADO\obj\Debug\Thanh_phan_Luu_tru_ADO.MH_Chinh.resources
+F:\SDS_MBOOK\CNPM\2_Thiet_ke_Du_lieu\1_Khai_niem\CNPM_Vi_du_minh_hoa_Thanh_phan_Luu_tru\Thanh_phan_Luu_tru_ADO\obj\Debug\Thanh_phan_Luu_tru_ADO.MH_Them_moi_Nhan_vien.resources
+F:\SDS_MBOOK\CNPM\2_Thiet_ke_Du_lieu\1_Khai_niem\CNPM_Vi_du_minh_hoa_Thanh_phan_Luu_tru\Thanh_phan_Luu_tru_ADO\obj\Debug\Thanh_phan_Luu_tru_ADO.MH_Tra_cuu_Nhan_vien_theo_Don_vi.resources
+F:\SDS_MBOOK\CNPM\2_Thiet_ke_Du_lieu\1_Khai_niem\CNPM_Vi_du_minh_hoa_Thanh_phan_Luu_tru\Thanh_phan_Luu_tru_ADO\obj\Debug\Thanh_phan_Luu_tru_ADO.Resources.resources
+F:\SDS_MBOOK\CNPM\2_Thiet_ke_Du_lieu\1_Khai_niem\CNPM_Vi_du_minh_hoa_Thanh_phan_Luu_tru\Thanh_phan_Luu_tru_ADO\obj\Debug\Thanh_phan_Luu_tru_ADO.vbproj.GenerateResource.Cache
+F:\SDS_MBOOK\CNPM\2_Thiet_ke_Du_lieu\1_Khai_niem\CNPM_Vi_du_minh_hoa_Thanh_phan_Luu_tru\Thanh_phan_Luu_tru_ADO\obj\Debug\Thanh_phan_Luu_tru_ADO.xml
+F:\SDS_MBOOK\CNPM\2_Thiet_ke_Du_lieu\1_Khai_niem\CNPM_Vi_du_minh_hoa_Thanh_phan_Luu_tru\Thanh_phan_Luu_tru_ADO\bin\Debug\Thanh_phan_Luu_tru_ADO.exe
+F:\SDS_MBOOK\CNPM\2_Thiet_ke_Du_lieu\1_Khai_niem\CNPM_Vi_du_minh_hoa_Thanh_phan_Luu_tru\Thanh_phan_Luu_tru_ADO\bin\Debug\Thanh_phan_Luu_tru_ADO.pdb
+F:\SDS_MBOOK\CNPM\2_Thiet_ke_Du_lieu\1_Khai_niem\CNPM_Vi_du_minh_hoa_Thanh_phan_Luu_tru\Thanh_phan_Luu_tru_ADO\bin\Debug\Thanh_phan_Luu_tru_ADO.xml
+F:\SDS_MBOOK\CNPM\2_Thiet_ke_Du_lieu\1_Khai_niem\CNPM_Vi_du_minh_hoa_Thanh_phan_Luu_tru\Thanh_phan_Luu_tru_ADO\obj\Debug\Thanh_phan_Luu_tru_ADO.exe
+F:\SDS_MBOOK\CNPM\2_Thiet_ke_Du_lieu\1_Khai_niem\CNPM_Vi_du_minh_hoa_Thanh_phan_Luu_tru\Thanh_phan_Luu_tru_ADO\obj\Debug\Thanh_phan_Luu_tru_ADO.pdb
+E:\Docs\DH KHTN\NMCNPM\Chuong 2\1. Thuc hanh\CNPM_Vi_du_minh_hoa_Thanh_phan_Luu_tru\Thanh_phan_Luu_tru_ADO\bin\Debug\Thanh_phan_Luu_tru_ADO.exe.config
+E:\Docs\DH KHTN\NMCNPM\Chuong 2\1. Thuc hanh\CNPM_Vi_du_minh_hoa_Thanh_phan_Luu_tru\Thanh_phan_Luu_tru_ADO\obj\Debug\Thanh_phan_Luu_tru_ADO.exe
+E:\Docs\DH KHTN\NMCNPM\Chuong 2\1. Thuc hanh\CNPM_Vi_du_minh_hoa_Thanh_phan_Luu_tru\Thanh_phan_Luu_tru_ADO\obj\Debug\Thanh_phan_Luu_tru_ADO.xml
+E:\Docs\DH KHTN\NMCNPM\Chuong 2\1. Thuc hanh\CNPM_Vi_du_minh_hoa_Thanh_phan_Luu_tru\Thanh_phan_Luu_tru_ADO\obj\Debug\Thanh_phan_Luu_tru_ADO.pdb
+E:\Docs\DH KHTN\NMCNPM\Chuong 2\1. Thuc hanh\CNPM_Vi_du_minh_hoa_Thanh_phan_Luu_tru\Thanh_phan_Luu_tru_ADO\bin\Debug\Thanh_phan_Luu_tru_ADO.exe
+E:\Docs\DH KHTN\NMCNPM\Chuong 2\1. Thuc hanh\CNPM_Vi_du_minh_hoa_Thanh_phan_Luu_tru\Thanh_phan_Luu_tru_ADO\bin\Debug\Thanh_phan_Luu_tru_ADO.pdb
+E:\Docs\DH KHTN\NMCNPM\Chuong 2\1. Thuc hanh\CNPM_Vi_du_minh_hoa_Thanh_phan_Luu_tru\Thanh_phan_Luu_tru_ADO\bin\Debug\Thanh_phan_Luu_tru_ADO.xml
+E:\Docs\DH KHTN\NMCNPM\Chuong 2\1. Thuc hanh\CNPM_Vi_du_minh_hoa_Thanh_phan_Luu_tru\Thanh_phan_Luu_tru_ADO\obj\Debug\Thanh_phan_Luu_tru_ADO.vbprojResolveAssemblyReference.cache
+E:\Docs\DH KHTN\NMCNPM\Chuong 2\1. Thuc hanh\CNPM_Vi_du_minh_hoa_Thanh_phan_Luu_tru\Thanh_phan_Luu_tru_ADO\obj\Debug\Thanh_phan_Luu_tru_ADO.MH_Chinh.resources
+E:\Docs\DH KHTN\NMCNPM\Chuong 2\1. Thuc hanh\CNPM_Vi_du_minh_hoa_Thanh_phan_Luu_tru\Thanh_phan_Luu_tru_ADO\obj\Debug\Thanh_phan_Luu_tru_ADO.MH_Them_moi_Nhan_vien.resources
+E:\Docs\DH KHTN\NMCNPM\Chuong 2\1. Thuc hanh\CNPM_Vi_du_minh_hoa_Thanh_phan_Luu_tru\Thanh_phan_Luu_tru_ADO\obj\Debug\Thanh_phan_Luu_tru_ADO.MH_Tra_cuu_Nhan_vien_theo_Don_vi.resources
+E:\Docs\DH KHTN\NMCNPM\Chuong 2\1. Thuc hanh\CNPM_Vi_du_minh_hoa_Thanh_phan_Luu_tru\Thanh_phan_Luu_tru_ADO\obj\Debug\Thanh_phan_Luu_tru_ADO.Resources.resources
+E:\Docs\DH KHTN\NMCNPM\Chuong 2\1. Thuc hanh\CNPM_Vi_du_minh_hoa_Thanh_phan_Luu_tru\Thanh_phan_Luu_tru_ADO\obj\Debug\Thanh_phan_Luu_tru_ADO.vbproj.GenerateResource.Cache
+E:\Docs\DH KHTN\NMCNPM\Chuong 2\1. Thuc hanh\CNPM_Vi_du_minh_hoa_Thanh_phan_Luu_tru - Copy\Thanh_phan_Luu_tru_ADO\bin\Debug\Thanh_phan_Luu_tru_ADO.exe.config
+E:\Docs\DH KHTN\NMCNPM\Chuong 2\1. Thuc hanh\CNPM_Vi_du_minh_hoa_Thanh_phan_Luu_tru - Copy\Thanh_phan_Luu_tru_ADO\obj\Debug\Thanh_phan_Luu_tru_ADO.exe
+E:\Docs\DH KHTN\NMCNPM\Chuong 2\1. Thuc hanh\CNPM_Vi_du_minh_hoa_Thanh_phan_Luu_tru - Copy\Thanh_phan_Luu_tru_ADO\obj\Debug\Thanh_phan_Luu_tru_ADO.xml
+E:\Docs\DH KHTN\NMCNPM\Chuong 2\1. Thuc hanh\CNPM_Vi_du_minh_hoa_Thanh_phan_Luu_tru - Copy\Thanh_phan_Luu_tru_ADO\obj\Debug\Thanh_phan_Luu_tru_ADO.pdb
+E:\Docs\DH KHTN\NMCNPM\Chuong 2\1. Thuc hanh\CNPM_Thanh_phan_Luu_tru_Bai_tap_1\Thanh_phan_Luu_tru_ADO\bin\Debug\Thanh_phan_Luu_tru_ADO.exe.config
+E:\Docs\DH KHTN\NMCNPM\Chuong 2\1. Thuc hanh\CNPM_Thanh_phan_Luu_tru_Bai_tap_1\Thanh_phan_Luu_tru_ADO\obj\Debug\Thanh_phan_Luu_tru_ADO.exe
+E:\Docs\DH KHTN\NMCNPM\Chuong 2\1. Thuc hanh\CNPM_Thanh_phan_Luu_tru_Bai_tap_1\Thanh_phan_Luu_tru_ADO\obj\Debug\Thanh_phan_Luu_tru_ADO.xml
+E:\Docs\DH KHTN\NMCNPM\Chuong 2\1. Thuc hanh\CNPM_Thanh_phan_Luu_tru_Bai_tap_1\Thanh_phan_Luu_tru_ADO\obj\Debug\Thanh_phan_Luu_tru_ADO.pdb

@@ -1,0 +1,11 @@
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\2. Thuc Hanh\Khai_niem_Cong_nghe_Phan_mem_Bai_tap_2\QLNV_1_Tra_cuu_Nhan_vien_Theo_Do_tuoi\bin\Debug\QLNV_1_Tra_cuu_Nhan_vien_Theo_Do_tuoi.exe.config
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\2. Thuc Hanh\Khai_niem_Cong_nghe_Phan_mem_Bai_tap_2\QLNV_1_Tra_cuu_Nhan_vien_Theo_Do_tuoi\obj\Debug\QLNV_1_Tra_cuu_Nhan_vien_Theo_Do_tuoi.vbprojResolveAssemblyReference.cache
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\2. Thuc Hanh\Khai_niem_Cong_nghe_Phan_mem_Bai_tap_2\QLNV_1_Tra_cuu_Nhan_vien_Theo_Do_tuoi\obj\Debug\QLNV_1_Tra_cuu_Nhan_vien_Theo_Do_tuoi.MH_Tra_cuu_Nhan_vien_Theo_Do_tuoi.resources
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\2. Thuc Hanh\Khai_niem_Cong_nghe_Phan_mem_Bai_tap_2\QLNV_1_Tra_cuu_Nhan_vien_Theo_Do_tuoi\obj\Debug\QLNV_1_Tra_cuu_Nhan_vien_Theo_Do_tuoi.Resources.resources
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\2. Thuc Hanh\Khai_niem_Cong_nghe_Phan_mem_Bai_tap_2\QLNV_1_Tra_cuu_Nhan_vien_Theo_Do_tuoi\obj\Debug\QLNV_1_Tra_cuu_Nhan_vien_Theo_Do_tuoi.vbproj.GenerateResource.Cache
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\2. Thuc Hanh\Khai_niem_Cong_nghe_Phan_mem_Bai_tap_2\QLNV_1_Tra_cuu_Nhan_vien_Theo_Do_tuoi\obj\Debug\QLNV_1_Tra_cuu_Nhan_vien_Theo_Do_tuoi.xml
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\2. Thuc Hanh\Khai_niem_Cong_nghe_Phan_mem_Bai_tap_2\QLNV_1_Tra_cuu_Nhan_vien_Theo_Do_tuoi\bin\Debug\QLNV_1_Tra_cuu_Nhan_vien_Theo_Do_tuoi.exe
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\2. Thuc Hanh\Khai_niem_Cong_nghe_Phan_mem_Bai_tap_2\QLNV_1_Tra_cuu_Nhan_vien_Theo_Do_tuoi\bin\Debug\QLNV_1_Tra_cuu_Nhan_vien_Theo_Do_tuoi.pdb
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\2. Thuc Hanh\Khai_niem_Cong_nghe_Phan_mem_Bai_tap_2\QLNV_1_Tra_cuu_Nhan_vien_Theo_Do_tuoi\bin\Debug\QLNV_1_Tra_cuu_Nhan_vien_Theo_Do_tuoi.xml
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\2. Thuc Hanh\Khai_niem_Cong_nghe_Phan_mem_Bai_tap_2\QLNV_1_Tra_cuu_Nhan_vien_Theo_Do_tuoi\obj\Debug\QLNV_1_Tra_cuu_Nhan_vien_Theo_Do_tuoi.exe
+E:\Docs\DH KHTN\NMCNPM\Chuong 1\2. Thuc Hanh\Khai_niem_Cong_nghe_Phan_mem_Bai_tap_2\QLNV_1_Tra_cuu_Nhan_vien_Theo_Do_tuoi\obj\Debug\QLNV_1_Tra_cuu_Nhan_vien_Theo_Do_tuoi.pdb
