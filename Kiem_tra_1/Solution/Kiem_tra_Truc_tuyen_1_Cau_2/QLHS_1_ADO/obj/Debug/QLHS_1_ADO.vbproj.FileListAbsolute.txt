@@ -1,0 +1,74 @@
+F:\07_2016\SDS_Du_lieu\Media\Bai_giang\CNPM\Thanh_phan_Nghiep_vu\Bai_tap\QLHS_1_Bai_tap\QLHS_1_ADO\bin\Debug\QLHS_1_ADO.exe.config
+F:\07_2016\SDS_Du_lieu\Media\Bai_giang\CNPM\Thanh_phan_Nghiep_vu\Bai_tap\QLHS_1_Bai_tap\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Ung_dung.resources
+F:\07_2016\SDS_Du_lieu\Media\Bai_giang\CNPM\Thanh_phan_Nghiep_vu\Bai_tap\QLHS_1_Bai_tap\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.Resources.resources
+F:\07_2016\SDS_Du_lieu\Media\Bai_giang\CNPM\Thanh_phan_Nghiep_vu\Bai_tap\QLHS_1_Bai_tap\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.vbproj.GenerateResource.Cache
+F:\07_2016\SDS_Du_lieu\Media\Bai_giang\CNPM\Thanh_phan_Nghiep_vu\Bai_tap\QLHS_1_Bai_tap\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.xml
+F:\07_2016\SDS_Du_lieu\Media\Bai_giang\CNPM\Thanh_phan_Nghiep_vu\Bai_tap\QLHS_1_Bai_tap\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Cap_nhat_Hoc_sinh.resources
+F:\07_2016\SDS_Du_lieu\Media\Bai_giang\CNPM\Thanh_phan_Nghiep_vu\Bai_tap\QLHS_1_Bai_tap\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Chon_Hoc_sinh.resources
+F:\07_2016\SDS_Du_lieu\Media\Bai_giang\CNPM\Thanh_phan_Nghiep_vu\Bai_tap\QLHS_1_Bai_tap\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Ghi_moi_Hoc_sinh.resources
+F:\07_2016\SDS_Du_lieu\Media\Bai_giang\CNPM\Thanh_phan_Nghiep_vu\Bai_tap\QLHS_1_Bai_tap\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Thong_ke_Hoc_sinh_Lop.resources
+F:\07_2016\SDS_Du_lieu\Media\Bai_giang\CNPM\Thanh_phan_Nghiep_vu\Bai_tap\QLHS_1_Bai_tap\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Tra_cuu_Hoc_sinh_Lop.resources
+F:\07_2016\SDS_Du_lieu\Media\Bai_giang\CNPM\Thanh_phan_Nghiep_vu\Bai_tap\QLHS_1_Bai_tap\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Tra_cuu_Hoc_sinh_theo_Ho_ten.resources
+F:\07_2016\SDS_Du_lieu\Media\Bai_giang\CNPM\Thanh_phan_Nghiep_vu\Bai_tap\QLHS_1_Bai_tap\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Xoa_Hoc_sinh.resources
+F:\07_2016\SDS_Du_lieu\Media\Bai_giang\CNPM\Thanh_phan_Nghiep_vu\Bai_tap\QLHS_1_Bai_tap\QLHS_1_ADO\bin\Debug\QLHS_1_ADO.exe
+F:\07_2016\SDS_Du_lieu\Media\Bai_giang\CNPM\Thanh_phan_Nghiep_vu\Bai_tap\QLHS_1_Bai_tap\QLHS_1_ADO\bin\Debug\QLHS_1_ADO.pdb
+F:\07_2016\SDS_Du_lieu\Media\Bai_giang\CNPM\Thanh_phan_Nghiep_vu\Bai_tap\QLHS_1_Bai_tap\QLHS_1_ADO\bin\Debug\QLHS_1_ADO.xml
+F:\07_2016\SDS_Du_lieu\Media\Bai_giang\CNPM\Thanh_phan_Nghiep_vu\Bai_tap\QLHS_1_Bai_tap\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.exe
+F:\07_2016\SDS_Du_lieu\Media\Bai_giang\CNPM\Thanh_phan_Nghiep_vu\Bai_tap\QLHS_1_Bai_tap\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.pdb
+D:\Luu_tru_Truc_tuyen\CNPM_DL_Truc_tuyen\QLHS_1\QLHS_1_ADO\bin\Debug\QLHS_1_ADO.exe.config
+D:\Luu_tru_Truc_tuyen\CNPM_DL_Truc_tuyen\QLHS_1\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.exe
+D:\Luu_tru_Truc_tuyen\CNPM_DL_Truc_tuyen\QLHS_1\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.xml
+D:\Luu_tru_Truc_tuyen\CNPM_DL_Truc_tuyen\QLHS_1\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.pdb
+D:\Luu_tru_Truc_tuyen\CNPM_DL_Truc_tuyen\QLHS_1\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Cap_nhat_Hoc_sinh.resources
+D:\Luu_tru_Truc_tuyen\CNPM_DL_Truc_tuyen\QLHS_1\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Ung_dung.resources
+D:\Luu_tru_Truc_tuyen\CNPM_DL_Truc_tuyen\QLHS_1\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Chon_Hoc_sinh.resources
+D:\Luu_tru_Truc_tuyen\CNPM_DL_Truc_tuyen\QLHS_1\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Ghi_moi_Hoc_sinh.resources
+D:\Luu_tru_Truc_tuyen\CNPM_DL_Truc_tuyen\QLHS_1\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Thong_ke_Hoc_sinh_Lop.resources
+D:\Luu_tru_Truc_tuyen\CNPM_DL_Truc_tuyen\QLHS_1\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Tra_cuu_Hoc_sinh_Lop.resources
+D:\Luu_tru_Truc_tuyen\CNPM_DL_Truc_tuyen\QLHS_1\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Tra_cuu_Hoc_sinh_theo_Ho_ten.resources
+D:\Luu_tru_Truc_tuyen\CNPM_DL_Truc_tuyen\QLHS_1\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Xoa_Hoc_sinh.resources
+D:\Luu_tru_Truc_tuyen\CNPM_DL_Truc_tuyen\QLHS_1\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.Resources.resources
+D:\Luu_tru_Truc_tuyen\CNPM_DL_Truc_tuyen\QLHS_1\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.vbproj.GenerateResource.Cache
+D:\Luu_tru_Truc_tuyen\CNPM_DL_Truc_tuyen\QLHS_1\QLHS_1_ADO\bin\Debug\QLHS_1_ADO.exe
+D:\Luu_tru_Truc_tuyen\CNPM_DL_Truc_tuyen\QLHS_1\QLHS_1_ADO\bin\Debug\QLHS_1_ADO.pdb
+D:\Luu_tru_Truc_tuyen\CNPM_DL_Truc_tuyen\QLHS_1\QLHS_1_ADO\bin\Debug\QLHS_1_ADO.xml
+D:\Luu_tru_Truc_tuyen\CNPM_DL_Truc_tuyen\Kiem_tra_Truc_tuyen\QLHS_1\QLHS_1_ADO\bin\Debug\QLHS_1_ADO.exe.config
+D:\Luu_tru_Truc_tuyen\CNPM_DL_Truc_tuyen\Kiem_tra_Truc_tuyen\QLHS_1\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.exe
+D:\Luu_tru_Truc_tuyen\CNPM_DL_Truc_tuyen\Kiem_tra_Truc_tuyen\QLHS_1\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.xml
+D:\Luu_tru_Truc_tuyen\CNPM_DL_Truc_tuyen\Kiem_tra_Truc_tuyen\QLHS_1\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.pdb
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\QLHS_1\QLHS_1_ADO\bin\Debug\QLHS_1_ADO.exe.config
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\QLHS_1\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.exe
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\QLHS_1\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.xml
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\QLHS_1\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.pdb
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\QLHS_1\QLHS_1_ADO\bin\Debug\QLHS_1_ADO.exe
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\QLHS_1\QLHS_1_ADO\bin\Debug\QLHS_1_ADO.pdb
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\QLHS_1\QLHS_1_ADO\bin\Debug\QLHS_1_ADO.xml
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\QLHS_1\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.vbprojResolveAssemblyReference.cache
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\QLHS_1\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Cap_nhat_Hoc_sinh.resources
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\QLHS_1\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Ung_dung.resources
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\QLHS_1\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Chon_Hoc_sinh.resources
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\QLHS_1\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Ghi_moi_Hoc_sinh.resources
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\QLHS_1\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Thong_ke_Hoc_sinh_Lop.resources
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\QLHS_1\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Tra_cuu_Hoc_sinh_Lop.resources
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\QLHS_1\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Tra_cuu_Hoc_sinh_theo_Ho_ten.resources
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\QLHS_1\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Xoa_Hoc_sinh.resources
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\QLHS_1\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.Resources.resources
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\QLHS_1\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.vbproj.GenerateResource.Cache
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\Kiem_tra_Truc_tuyen_1_Cau_2\QLHS_1_ADO\bin\Debug\QLHS_1_ADO.exe.config
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\Kiem_tra_Truc_tuyen_1_Cau_2\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.exe
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\Kiem_tra_Truc_tuyen_1_Cau_2\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.xml
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\Kiem_tra_Truc_tuyen_1_Cau_2\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.pdb
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\Kiem_tra_Truc_tuyen_1_Cau_2\QLHS_1_ADO\bin\Debug\QLHS_1_ADO.exe
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\Kiem_tra_Truc_tuyen_1_Cau_2\QLHS_1_ADO\bin\Debug\QLHS_1_ADO.pdb
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\Kiem_tra_Truc_tuyen_1_Cau_2\QLHS_1_ADO\bin\Debug\QLHS_1_ADO.xml
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\Kiem_tra_Truc_tuyen_1_Cau_2\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.vbprojResolveAssemblyReference.cache
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\Kiem_tra_Truc_tuyen_1_Cau_2\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Cap_nhat_Hoc_sinh.resources
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\Kiem_tra_Truc_tuyen_1_Cau_2\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Ung_dung.resources
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\Kiem_tra_Truc_tuyen_1_Cau_2\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Chon_Hoc_sinh.resources
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\Kiem_tra_Truc_tuyen_1_Cau_2\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Ghi_moi_Hoc_sinh.resources
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\Kiem_tra_Truc_tuyen_1_Cau_2\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Thong_ke_Hoc_sinh_Lop.resources
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\Kiem_tra_Truc_tuyen_1_Cau_2\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Tra_cuu_Hoc_sinh_Lop.resources
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\Kiem_tra_Truc_tuyen_1_Cau_2\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Tra_cuu_Hoc_sinh_theo_Ho_ten.resources
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\Kiem_tra_Truc_tuyen_1_Cau_2\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.MH_Xoa_Hoc_sinh.resources
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\Kiem_tra_Truc_tuyen_1_Cau_2\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.Resources.resources
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_1\Kiem_tra_Truc_tuyen_1_Cau_2\QLHS_1_ADO\obj\Debug\QLHS_1_ADO.vbproj.GenerateResource.Cache

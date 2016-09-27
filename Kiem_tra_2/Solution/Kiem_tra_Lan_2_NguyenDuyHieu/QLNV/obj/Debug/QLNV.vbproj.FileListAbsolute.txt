@@ -1,0 +1,14 @@
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_2\Kiem_tra_Lan_2_NguyenDuyHieu\QLNV\obj\Debug\QLNV.vbproj.GenerateResource.Cache
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_2\Kiem_tra_Lan_2_NguyenDuyHieu\QLNV\obj\Debug\QLNV.vbprojResolveAssemblyReference.cache
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_2\Kiem_tra_Lan_2_NguyenDuyHieu\QLNV\bin\Debug\QLNV.exe.config
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_2\Kiem_tra_Lan_2_NguyenDuyHieu\QLNV\bin\Debug\QLNV.exe
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_2\Kiem_tra_Lan_2_NguyenDuyHieu\QLNV\bin\Debug\QLNV.pdb
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_2\Kiem_tra_Lan_2_NguyenDuyHieu\QLNV\bin\Debug\QLNV.xml
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_2\Kiem_tra_Lan_2_NguyenDuyHieu\QLNV\obj\Debug\QLNV.MH_Nhap_lieu_Phieu_cong_tac.resources
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_2\Kiem_tra_Lan_2_NguyenDuyHieu\QLNV\obj\Debug\QLNV.MH_Tra_cuu_Phieu_cong_tac.resources
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_2\Kiem_tra_Lan_2_NguyenDuyHieu\QLNV\obj\Debug\QLNV.MH_Tra_cuu_Nhan_vien.resources
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_2\Kiem_tra_Lan_2_NguyenDuyHieu\QLNV\obj\Debug\QLNV.MH_Ung_dung.resources
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_2\Kiem_tra_Lan_2_NguyenDuyHieu\QLNV\obj\Debug\QLNV.Resources.resources
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_2\Kiem_tra_Lan_2_NguyenDuyHieu\QLNV\obj\Debug\QLNV.exe
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_2\Kiem_tra_Lan_2_NguyenDuyHieu\QLNV\obj\Debug\QLNV.xml
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_2\Kiem_tra_Lan_2_NguyenDuyHieu\QLNV\obj\Debug\QLNV.pdb

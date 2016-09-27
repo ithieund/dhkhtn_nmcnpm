@@ -1,0 +1,28 @@
+F:\08_2016\SDS\Du_lieu_tam\QLNV_1_Phien_ban_3\Cuc_bo\bin\Debug\Cuc_bo.exe.config
+F:\08_2016\SDS\Du_lieu_tam\QLNV_1_Phien_ban_3\Cuc_bo\obj\Debug\Cuc_bo.MH_Nhap_lieu_Chi_nhanh.resources
+F:\08_2016\SDS\Du_lieu_tam\QLNV_1_Phien_ban_3\Cuc_bo\obj\Debug\Cuc_bo.MH_Nhap_lieu_Cong_ty.resources
+F:\08_2016\SDS\Du_lieu_tam\QLNV_1_Phien_ban_3\Cuc_bo\obj\Debug\Cuc_bo.MH_Nhap_lieu_Don_vi.resources
+F:\08_2016\SDS\Du_lieu_tam\QLNV_1_Phien_ban_3\Cuc_bo\obj\Debug\Cuc_bo.MH_Nhap_lieu_Gioi_tinh.resources
+F:\08_2016\SDS\Du_lieu_tam\QLNV_1_Phien_ban_3\Cuc_bo\obj\Debug\Cuc_bo.MH_Nhap_lieu_Nhan_vien.resources
+F:\08_2016\SDS\Du_lieu_tam\QLNV_1_Phien_ban_3\Cuc_bo\obj\Debug\Cuc_bo.MH_Thong_ke_Nhan_vien.resources
+F:\08_2016\SDS\Du_lieu_tam\QLNV_1_Phien_ban_3\Cuc_bo\obj\Debug\Cuc_bo.MH_Tra_cuu_Nhan_vien.resources
+F:\08_2016\SDS\Du_lieu_tam\QLNV_1_Phien_ban_3\Cuc_bo\obj\Debug\Cuc_bo.MH_Ung_dung.resources
+F:\08_2016\SDS\Du_lieu_tam\QLNV_1_Phien_ban_3\Cuc_bo\obj\Debug\Cuc_bo.Resources.resources
+F:\08_2016\SDS\Du_lieu_tam\QLNV_1_Phien_ban_3\Cuc_bo\obj\Debug\Cuc_bo.vbproj.GenerateResource.Cache
+F:\08_2016\SDS\Du_lieu_tam\QLNV_1_Phien_ban_3\Cuc_bo\obj\Debug\Cuc_bo.xml
+F:\08_2016\SDS\Du_lieu_tam\QLNV_1_Phien_ban_3\Cuc_bo\bin\Debug\Cuc_bo.exe
+F:\08_2016\SDS\Du_lieu_tam\QLNV_1_Phien_ban_3\Cuc_bo\bin\Debug\Cuc_bo.pdb
+F:\08_2016\SDS\Du_lieu_tam\QLNV_1_Phien_ban_3\Cuc_bo\bin\Debug\Cuc_bo.xml
+F:\08_2016\SDS\Du_lieu_tam\QLNV_1_Phien_ban_3\Cuc_bo\obj\Debug\Cuc_bo.exe
+F:\08_2016\SDS\Du_lieu_tam\QLNV_1_Phien_ban_3\Cuc_bo\obj\Debug\Cuc_bo.pdb
+F:\08_2016\SDS\Du_lieu_tam\QLNV_1_Phien_ban_3\Cuc_bo\bin\Debug\PET_Dong_ho_Ho_tro_thuc_hanh.dll
+F:\08_2016\SDS\Du_lieu_tam\QLNV_1_Phien_ban_3\Cuc_bo\bin\Debug\PET_Dong_ho_Ho_tro_thuc_hanh.pdb
+F:\08_2016\SDS\Du_lieu_tam\QLNV_1_Phien_ban_3\Cuc_bo\bin\Debug\PET_Dong_ho_Ho_tro_thuc_hanh.xml
+E:\Docs\DH KHTN\NMCNPM\Chuong 3\QLNV_1_Phien_ban_3\Cuc_bo\bin\Debug\Cuc_bo.exe.config
+E:\Docs\DH KHTN\NMCNPM\Chuong 3\QLNV_1_Phien_ban_3\Cuc_bo\obj\Debug\Cuc_bo.exe
+E:\Docs\DH KHTN\NMCNPM\Chuong 3\QLNV_1_Phien_ban_3\Cuc_bo\obj\Debug\Cuc_bo.xml
+E:\Docs\DH KHTN\NMCNPM\Chuong 3\QLNV_1_Phien_ban_3\Cuc_bo\obj\Debug\Cuc_bo.pdb
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_2\Kiem_tra_Lan_2_NguyenDuyHieu\Cuc_bo\bin\Debug\Cuc_bo.exe.config
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_2\Kiem_tra_Lan_2_NguyenDuyHieu\Cuc_bo\obj\Debug\Cuc_bo.exe
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_2\Kiem_tra_Lan_2_NguyenDuyHieu\Cuc_bo\obj\Debug\Cuc_bo.xml
+E:\Docs\DH KHTN\NMCNPM\Kiem_Tra_2\Kiem_tra_Lan_2_NguyenDuyHieu\Cuc_bo\obj\Debug\Cuc_bo.pdb
